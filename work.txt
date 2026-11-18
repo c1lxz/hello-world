@@ -1,2 +1,2 @@
 Project: teamwork
-Status: initial version
+Status: greeting function added
